@@ -4,8 +4,8 @@ build-backend = "pdm.backend"
 
 [project]
 name = "nonebot-plugin-fishmusic"
-version = "0.1.0"
-description = "网易云点歌，直接把歌当语音条发出来（零 LLM 开销）"
+version = "0.2.0"
+description = "网易云点歌，直接把歌当语音条发出来；会员歌自动换源（零 LLM 开销）"
 readme = "README.md"
 license = { text = "MIT" }
 authors = [{ name = "173ababah" }]
